@@ -1,0 +1,32 @@
+body {
+    background-color: rgb(40, 44, 52);
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    overflow: hidden;
+}
+
+#contenedor {
+    padding-top: 50px;
+    position: relative;
+    margin: auto;
+    width: 800px;
+    height: 300px;
+}
+
+canvas {
+    background-color: rgb(246, 7, 7);
+    width: 800px;
+    height: 300px;
+    border: 2px solid #000000;
+}
+footer {
+    background-color: #d4a9a9;
+    color: rgb(6, 6, 6);
+    width: 100%;
+    position: fixed;
+    bottom: 0px;
+    text-align: center;
+    padding: 20px;
+}
